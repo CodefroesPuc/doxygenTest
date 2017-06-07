@@ -6,4 +6,7 @@
 /**
 @mainpage Demonstration API
 This is a simple demonstration of getting Doxygen output to GitHub
+
+Exercise 1:
+@include exercises2.md
 */
